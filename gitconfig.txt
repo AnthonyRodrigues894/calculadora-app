@@ -1,0 +1,16 @@
+----------------------------------------------------------
+                    CONFIGURANDO O GITHUB
+git config --global user.name AnthonyRodrigues894
+git config --global user.email anthonyserrano894@gmail.com
+-----------------------------------------------------------
+                   CRIANDO O PROJETO
+npx create-expo-app@latest calculadora --template blank 
+
+-----------------------------------------------------------
+                    ABRINDO O PROJETO
+cd calculadora
+
+abrir o androidStudio
+-----------------------------------------------------------
+                    RODAR O PROJETO
+npx expo start --android
